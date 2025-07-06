@@ -1,6 +1,7 @@
 # u256bit-arithmetic-operations-spring25
 
 Implementing a C library for arithmetic operations on a 256-bit unsigned integer data type.
+Unit tests to verify functionality of all functions created and included. 
 
 Included Operations:
 - constructor
